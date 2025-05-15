@@ -21,7 +21,7 @@ header{
 	width:84vw;
 	padding:1rem;
 }
-content{
+.content{
 	display:flex;
 	flex-direction:row;
 	height:60vw;
